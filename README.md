@@ -1,1 +1,1 @@
-ggizi
+Análisis Dinámico de Recuperación de Capital por Cohortes Mensuales (2024-2025). Este modelo evalúa el ciclo de vida financiero de cada lote de mercancía, comparando la curva de ingresos acumulados contra la inversión inicial. Permite identificar patrones estacionales de retorno y optimizar el flujo de caja mediante la visualización del Punto de Equilibrio (Break-even) multitemporal.
