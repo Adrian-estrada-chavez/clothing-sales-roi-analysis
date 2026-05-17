@@ -1,6 +1,6 @@
 # Análisis de Rendimiento de Ventas y Optimización de ROI - Retail
 
-<a href="https://colab.research.google.com/https://github.com/Adrian-estrada-chavez/clothing-sales-roi-analysis/blob/main/notebooks/Clothing_sales_roi_analysis.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/Adrian-estrada-chavez/clothing-sales-roi-analysis/blob/main/notebooks/Clothing_sales_roi_analysis.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
