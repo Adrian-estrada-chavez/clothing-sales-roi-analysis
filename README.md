@@ -47,6 +47,21 @@ Librerías de Análisis: Pandas, NumPy
 
 Visualización: Matplotlib, Tableau.
 
+### 🏷️ Sistema de Calificación y Envejecimiento de Stock
+Para dar visibilidad inmediata al estado de las mercancías y responder a la incógnita de dónde se encuentra retenido el flujo de efectivo, se desarrolló un algoritmo de lógica condicional que clasifica el inventario en **cinco niveles críticos** según el tiempo transcurrido desde su adquisición:
+
+* **NOVEDAD (Alta Prioridad de Exhibición):** Producto de reciente ingreso con el mayor potencial de margen completo. Requiere máxima exposición en piso de venta.
+* **ACTIVO (Monitoreo Constante):** Producto con rotación regular dentro de los parámetros esperados de venta.
+* **LENTA ROTACIÓN (Atención Comercial):** Mercancía que empieza a rebasar los tiempos óptimos de permanencia en exhibición. Requiere estrategias de impulso visual o ligeros incentivos.
+* **LIQUIDACIÓN PRIORITARIA (Acción Inmediata):** Productos con baja demanda que ponen en riesgo la liquidez. Requiere la aplicación de promociones cruzadas o descuentos estratégicos antes de congelarse por completo.
+* **DEAD STOCK / STOCK MUERTO (Fuga de Capital):** Mercancía estancada que bloquea el capital de trabajo y eleva los costos de almacenamiento. Requiere estrategias de liquidación total para recuperar el costo base.
+
+#### 📈 Impacto Interdepartamental de esta Métrica:
+Este sistema de calificación actúa como un puente de comunicación único entre tres áreas clave de la organización:
+1.  **Dirección:** Permite visualizar de forma macro la salud financiera del inventario y evaluar el riesgo de pérdida de liquidez por capital congelado.
+2.  **Ventas:** Funciona como guía comercial diaria para saber qué productos requieren prioridad de salida, reubicación en los aparadores principales de la sucursal o activación de descuentos antes de devaluarse.
+3.  **Almacén:** Optimiza el espacio físico, identificando qué mercancía está ocupando zonas críticas de manera ineficiente para mejorar la logística de acomodo y futuras recepciones.
+
 📉 Conclusiones Clave y Resumen Ejecutivo
 ---
 El análisis del proyecto arrojó los siguientes hallazgos críticos para la toma de decisiones del negocio:
