@@ -48,6 +48,7 @@ Librerías de Análisis: Pandas, NumPy
 Visualización: Matplotlib, Tableau.
 
 ### 🏷️ Sistema de Calificación y Envejecimiento de Stock
+---
 Para dar visibilidad inmediata al estado de las mercancías y responder a la incógnita de dónde se encuentra retenido el flujo de efectivo, se desarrolló un algoritmo de lógica condicional que clasifica el inventario en **cinco niveles críticos** según el tiempo transcurrido desde su adquisición:
 
 * **NOVEDAD (Alta Prioridad de Exhibición):** Producto de reciente ingreso con el mayor potencial de margen completo. Requiere máxima exposición en piso de venta.
