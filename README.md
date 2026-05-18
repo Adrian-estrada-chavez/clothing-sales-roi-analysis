@@ -1,5 +1,5 @@
 ## 🏢 Contexto del Negocio y Problemática
-La empresa objeto de este estudio es un negocio familiar con **10 años** en el mercado retail de ropa. A lo largo de su historia ha experimentado un crecimiento sostenido; sin embargo, durante los **últimos 3 años**, la administración comenzó a notar una problemática crítica: a pesar de mantener un volumen constante de ventas, **el dinero en caja no alcanza y se desconoce la causa raíz**.
+La empresa objeto de este estudio es un negocio familiar con **10 años** en el mercado retail de ropa. A lo largo de su historia ha experimentado un crecimiento sostenido; sin embargo, durante los **últimos 2 años**, la administración comenzó a notar una problemática crítica: a pesar de mantener un volumen constante de ventas, **el dinero en caja no alcanza y se desconoce la causa raíz**.
 
 Ante la falta de visibilidad financiera y operativa, este proyecto nace para auditar los datos históricos, mapear los flujos de efectivo y entender en qué parte del ciclo operativo (compras, inventario estancado o devoluciones) se está perdiendo la rentabilidad del negocio.
 
