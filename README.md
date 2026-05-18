@@ -1,3 +1,10 @@
+## 🏢 Contexto del Negocio y Problemática
+La empresa objeto de este estudio es un negocio familiar con **10 años** en el mercado retail de ropa. A lo largo de su historia ha experimentado un crecimiento sostenido; sin embargo, durante los **últimos 3 años**, la administración comenzó a notar una problemática crítica: a pesar de mantener un volumen constante de ventas, **el dinero en caja no alcanza y se desconoce la causa raíz**.
+
+Ante la falta de visibilidad financiera y operativa, este proyecto nace para auditar los datos históricos, mapear los flujos de efectivo y entender en qué parte del ciclo operativo (compras, inventario estancado o devoluciones) se está perdiendo la rentabilidad del negocio.
+
+
+
 # Análisis de Rendimiento de Ventas y Optimización de ROI - Retail
 
 <a href="https://colab.research.google.com/github/Adrian-estrada-chavez/clothing-sales-roi-analysis/blob/main/notebooks/Clothing_sales_roi_analysis.ipynb" target="_blank">
@@ -51,3 +58,6 @@ El análisis del proyecto arrojó los siguientes hallazgos críticos para la tom
 3. Plan de Acción Estratégico: Para sanar el flujo de caja y alcanzar un ROI neto sostenible superior al 10%, es indispensable implementar una reducción de costos operativos, negociar agresivamente precios de adquisición con proveedores de marcas clave y reajustar los precios de venta de los artículos con alta demanda.
 
 4. Cultura de Datos: Se identificaron áreas de oportunidad en la captura original (columnas vacías de color y talla en todos los SKUs y la falta de motivos en las notas de crédito), recomendando establecer un registro estricto para predecir con exactitud qué variantes se estancan.
+
+## 🔒 Privacidad y Cumplimiento de Datos
+> ⚠️ **Nota importante sobre los datos:** Para proteger la confidencialidad, la ventaja competitiva y la privacidad comercial de la empresa, **todos los datos utilizados en este repositorio son 100% ficticios y sintéticos**. Los nombres de clientes, registros de ventas, costos y códigos SKU han sido generados artificialmente preservando de manera exacta la lógica matemática, las proporciones financieras y el comportamiento operativo del modelo de negocio original.
